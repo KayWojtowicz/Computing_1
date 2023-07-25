@@ -1,0 +1,5 @@
+﻿  daily5.c
+C:\Users\wojto\OneDrive - University of Massachusetts Lowell - UMass Lowell\Documents\comp1010\Daily5\Daily5\daily5.c(24,2): warning C4033: 'smile' must return a value
+C:\Users\wojto\OneDrive - University of Massachusetts Lowell - UMass Lowell\Documents\comp1010\Daily5\Daily5\daily5.c(25): warning C4716: 'smile': must return a value
+  LINK : C:\Users\wojto\OneDrive - University of Massachusetts Lowell - UMass Lowell\Documents\comp1010\Daily5\Debug\Daily5.exe not found or not built by the last incremental link; performing full link
+  Daily5.vcxproj -> C:\Users\wojto\OneDrive - University of Massachusetts Lowell - UMass Lowell\Documents\comp1010\Daily5\Debug\Daily5.exe
